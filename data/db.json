@@ -1,0 +1,37 @@
+{
+    "posts": [
+        {
+            "id":1,
+            "title": "Prakashit ho",
+            "body": "This spell lights up the tip of the wand like a flashlight",
+            "likes": "30"
+        },
+        {
+            "id":2,
+            "title": "Sectumsempra",
+            "body": "This spell lights up the tip of the wand like a flashlight",
+            "likes": "30"
+        },
+        {
+            "id":3,
+            "title": "Tala khol do",
+            "body": "This spell lights up the tip of the wand like a flashlight",
+            "likes": "30"
+        },
+        {
+            "id":4,
+            "title": "Wingardium Leviosa",
+            "body": "This spell lights up the tip of the wand like a flashlight",
+            "likes": "30"
+        }
+    ],
+
+    "polls": [
+        {
+            "id": 1,
+            "question" : "Do you prefer Vue or React?",
+            "answerA": "vue",
+            "answerB": "React"
+        }
+    ]
+}
